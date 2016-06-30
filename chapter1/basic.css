@@ -2,3 +2,27 @@
 body{
     color: cadetblue;
 }
+span{
+
+}
+.news{
+    background: cadetblue;
+    color: white;
+    float: left;
+}
+#float{
+    float: left;
+    width: 20px;
+    max-height: 30px;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+#second{
+    /*clear:left;*/
+    float: right;
+}
+.clear{
+    clear: both;
+}
